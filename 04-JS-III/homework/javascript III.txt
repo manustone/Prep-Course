@@ -1,0 +1,3 @@
+Arrays=
+        Los arays son variables enlasadas y ordenadas que pueden contener cualquier tipo de dato. Es como una
+        lista de datos que estan unidos como un collar.
