@@ -1,0 +1,15 @@
+Que es el for?
+Es una estructura de repeticion que sirve para repetir instrucciones en nuestro programa, con
+el ciclo for podemos declarar cuantas veces se va a repetir la instruccion o tambien cuales son
+los parametros de corte.
+
+* `&&`, `||`, `!`
+
+&&= 
+    Es un operador logico que sirve para combinar condiciones, asi, dando resultado "true" cuando las 
+    dos condiciones se cumplen (son true).
+||=
+    Es un operador logico que sirve para crear dos condiciones, asi, dando resultado "true" cuando  
+    una de las dos  condiciones se cumple (son true).
+!= 
+    El operador logico not sirve para dar el resultado booleano opuesto 
