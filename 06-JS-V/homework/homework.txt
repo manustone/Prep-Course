@@ -1,0 +1,14 @@
+* `prototype`
+    
+    El prototipo de un objeto es como un plano en el cual esta escrito todas las propiedades y metodos 
+    de un objeto, estos "planos" pueden heredarse de objeto en objeto hasta llegar a un objeto "padre"
+    y en el estan escritas todas las propiedades y metodos que se heredan lo cual viene a llamarse como
+    el prototipo, La etimologia de la palabra prototipo viene de las raices griegas y significa ejemplar 
+    usado para fabricar otros iguales, proto (primero) typos(tipos,impresion, modelos),
+
+* _Constructors_ (de Clases)
+
+    Es una funcion que crea objetos a partir de un prototipo, a la vez estos objetos creados comparten 
+    las mismas propiedades que el objeto "padre" al mismo tiempo teniendo acceso a los metodos de dicho
+    prototipo.
+
