@@ -1,0 +1,22 @@
+/*Funciones callback
+
+
+
+Las funciones callback sirven para poner una funcion dentro de otra, Que es una funcion ? una funcion es 
+la automatizacion de una tarea describiendo los pasos o instrucciones que se tienen que seguir y 
+tambien dependen de los parametros que se le asigne, Que son los parametros? los parametros en una 
+funcion son los datos que pueden variar en estas instrucciones, un ejemplo puede ser de cuantas personas
+sera la comida que resulta al seguir las instrucciones de una receta, en sintesis un callback es una 
+instruccion dentro de otra instruccion, en una receta de cocina una instruccion dentro de otra puede ser 
+como romper un huevo, en la instruccion te diria rompe el huevo pero tu no sabes como romper el huevo 
+entonces entras en esta instruccion de como romper el huevo (tambien pueden tener parametros asignados como
+cuantos huevos) y asi infinitamente, instrucciones en las instrucciones la vida se trata de instrucciones, todo 
+tiene un  callback, las celulas de mi cuerpo tienen unas instrucciones de que hacer para que la funcion "padre"
+(vivir ) pueda funcionar 
+
+
+
+
+
+
+*/
